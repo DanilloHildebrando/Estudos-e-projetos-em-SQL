@@ -19,6 +19,8 @@ Conforme estraído do site supracitado: "O HackerRank é um portal com conteúdo
 
 ###  Técnologia
 
+Observação: Não encontrei disponível o logo apenas do SQL então ressalto que possuo conhecimento de que o MySQL é um dos SGBD disponíveis que utilizam SQL e não o "SQL em si".
+
 <p display="inline-block">
   <img width="48" src=https://logodownload.org/wp-content/uploads/2016/10/mysql-logo.png" alt="c-logo"/>
                                                                                                       
