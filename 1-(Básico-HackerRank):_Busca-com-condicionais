@@ -1,0 +1,3 @@
+// O algoritmo realiza uma busca em um campo pré-determinado pela plataforma.
+
+select name from city where population > 120000 and countrycode = 'USA';
